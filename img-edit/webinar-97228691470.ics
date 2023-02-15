@@ -1,0 +1,65 @@
+BEGIN:VCALENDAR
+PRODID:-//zoom.us//iCalendar Event//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+CLASS:PUBLIC
+BEGIN:VTIMEZONE
+TZID:America/Sao_Paulo
+LAST-MODIFIED:20230104T023644Z
+TZURL:https://www.tzurl.org/zoneinfo-outlook/America/Sao_Paulo
+X-LIC-LOCATION:America/Sao_Paulo
+BEGIN:STANDARD
+TZNAME:-03
+TZOFFSETFROM:-0300
+TZOFFSETTO:-0300
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20230109T173739Z
+DTSTART;TZID=America/Sao_Paulo:20230114T083000
+DTEND;TZID=America/Sao_Paulo:20230114T183000
+SUMMARY:Curso Oficial Microsoft Azure Fundamentals (AZ-900)
+UID:20230109T173739Z-97228691470@fe80:0:0:0:1f:77ff:feb9:103ens5
+TZID:America/Sao_Paulo
+DESCRIPTION:﻿Entre de um PC\, Mac\, iPad\, iPhone ou dispositivo Android:
+  \n	Clique neste URL para entrar. https://kasolution.zoom.us/w/972286914
+ 70?tk=jxKWFZGiH9htvn60vMN1sjst-pRWuNRI8-iQsdxnfng.DQMAAAAWo0gYDhZERWVfOS
+ 1vLVFIeUVnWW55S2Z5NzdRAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&uuid=WN_-PdSFrIbRh2
+ khqY2DGtgDQ \n	Descrição: A Sala Zoom será aberta 08h30 para os particip
+ antes ingressarem\, e o evento irá iniciar oficialmente 09h00. :)\n\nCas
+ o você queira ingressar no mundo Azure\, aproveite essa super chance a d
+ istância e de forma 100% GRATUITA!!!!\n\nO curso será ministrado por doi
+ s instrutores MCTs (Microsoft Certified Trainer)\, e irá apresentar aos 
+ alunos os serviços em nuvem e como esses serviços são fornecidos com o M
+ icrosoft Azure. É uma primeira etapa no aprendizado sobre serviços em nu
+ vem e no Microsoft Azure\, antes de fazer mais cursos de serviços em nuv
+ em do Microsoft Azure ou da Microsoft. O curso abrangerá conceitos gerai
+ s de computação em nuvem\, além de modelos e serviços gerais de computaç
+ ão em nuvem\, como nuvem Pública\, Privada e Híbrida e Infraestrutura co
+ mo Serviço (IaaS)\, Plataforma como Serviço (PaaS) e Software como um se
+ rviço (SaaS). Ele também abrangerá alguns serviços e soluções principais
+  do Azure\, bem como os principais serviços do pilar Azure relacionados 
+ à segurança\, privacidade\, conformidade e confiança. Finalmente\, ele a
+ bordará os serviços de preços e suporte disponíveis no Azure.\n\nCarga H
+ orária:\nOs cursos entregues pela Ka Solution obedecem rigorosamente tod
+ os padrões definidos pela Microsoft. A carga horária definida para o tre
+ inamento é de 8 horas.\n\nApós concluir este curso\, os alunos serão cap
+ azes de:\n• Saber explicar os conceitos gerais de computação em nuvem\n•
+  Entender os principais serviços disponíveis com o Microsoft Azure\n• Co
+ mpreender a segurança\, privacidade\, conformidade e confiança com o Mic
+ rosoft Azure\n• Saber sobre os modelos de preços e suporte disponíveis c
+ om o Microsoft\n\nPreparatório para o Exame:\nAZ-900\n\nAo término do cu
+ rso\, os participantes receberão um Certificado de Conclusão e Vouchers 
+ de Desconto para os próximos cursos da carreira Azure.\n
+LOCATION:https://kasolution.zoom.us/w/97228691470?tk=jxKWFZGiH9htvn60vMN1
+ sjst-pRWuNRI8-iQsdxnfng.DQMAAAAWo0gYDhZERWVfOS1vLVFIeUVnWW55S2Z5NzdRAAAA
+ AAAAAAAAAAAAAAAAAAAAAAAAAA&uuid=WN_-PdSFrIbRh2khqY2DGtgDQ
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
